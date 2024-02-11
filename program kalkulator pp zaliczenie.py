@@ -165,7 +165,7 @@ while True:
                 if sum_result == 0:
                     print("Widzę że masz duże zaległości. Zdobyłeś 0 punktów. Popracuj nad tym, nie poddawaj się!")
                     break
-            #jeśli użytkownik nie chce kontynuować quizu przerywam pentle
+            #jeśli użytkownik nie chce kontynuować quizu przerywam pętlę
             if wybor == "nie":
                 break
     else:
